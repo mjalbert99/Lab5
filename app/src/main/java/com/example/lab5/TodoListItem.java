@@ -55,7 +55,7 @@ public class TodoListItem {
     @Override
     public String toString() {
         return "TodoListItem{" +
-                "id=" + id +
+               "id=" + id +
                 ", text='" + text + '\'' +
                 ", completed=" + completed +
                 ", order=" + order +
