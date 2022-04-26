@@ -1,8 +1,11 @@
 package com.example.lab5;
 
+import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
+import androidx.room.Entity;
+import androidx.room.PrimaryKey;
 
 import android.os.Bundle;
 import android.util.Log;
